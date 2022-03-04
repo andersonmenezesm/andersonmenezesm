@@ -12,7 +12,7 @@
 Meu nome é Anderson Menezes, 27, Desenvolvedor FrontEnd e amante de tecnologia!
 
 - :office_worker: Frontend na Accenture
-- :blue_heart: Stack: Javascript, Node, Vue & Nuxt
+- :blue_heart: Stack: Javascript e Node (React, Angular e Vue)
 - :books: Estudando: Typescript
 
 
