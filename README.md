@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Olá, meu nome é <strong>Anderson!</strong>
+## 👨🏻‍💻 Olá, meu nome é <strong>Anderson Menezes!</strong>
 
 > Sou desenvolvedor web há alguns anos, e estou atuando como Desenvolvedor Frontend na Accenture.
 
