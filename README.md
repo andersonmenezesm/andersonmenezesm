@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor web há alguns anos, e estou atuando como Desenvolvedor Frontend Pleno na Accenture.
 
-🔭 Atualmente trabalho no projeto da Telefônica Vivo - Nova Loja de Smartphones (Angular + Spartacus, SAP Commerce Cloud) e estudando desenvolvimento mobile, com foco em iOS (Swift, SwiftUI e UIKit)
+🔭 Atualmente atuo no projeto da Telefônica Vivo - Nova Loja de Smartphones (Angular + Spartacus, SAP Commerce Cloud) e estudando desenvolvimento mobile, com foco em iOS (Swift, SwiftUI e UIKit)
 
 💬 Gosto bastante de me envolver em projetos open sources e contribuir para o aprendizado das pessoas.
 
