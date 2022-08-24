@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Olá, meu nome é <strong>Anderson Menezes!</strong>
 
-> Sou desenvolvedor web há alguns anos, e estou atuando como Desenvolvedor Frontend Pleno na Accenture.
+> Sou desenvolvedor web há alguns anos, e estou atuando como Senior Frontend Engineer na Accenture.
 
 🔭 Atualmente atuo no projeto da Telefônica Vivo - Nova Loja de Smartphones (Angular + Spartacus, SAP Commerce Cloud) e estudando desenvolvimento mobile, com foco em iOS (Swift, SwiftUI e UIKit)
 
