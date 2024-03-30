@@ -1,11 +1,11 @@
 ## 👨🏻‍💻 Olá, meu nome é <strong>Anderson Menezes!</strong>
 
-> Sou desenvolvedor web há alguns anos, e estou atuando como Senior Frontend Engineer na Accenture.
+> Sou desenvolvedor web há alguns anos, e estou atuando como Senior Software Engineer na Accenture, e já atuei como Mobile Developer usando React Native em grandes projetos dos gigantes de telefonia brasileira.
 
 Olá, meu nome é Anderson Menezes, tenho 30 anos.
-Eu sou um verdadeiro apaixondado por tecnologia, e amo o universo de programação. Estou atuando na área há mais de 6 anos contribuindo com soluções disruptivas para o mercado.
+Eu tenho uma aptidão por tecnologia desde os meus 10 anos de idade, e fico impressionado com a quantidade de coisas que podemos fazer com programação. Estou atuando na área há mais de 6 anos contribuindo com soluções disruptivas para o mercado.
 ⁠
-⁠⁠Comecei os meus estudos há 7 anos, sempre tive uma veia para tecnologia, trabalhei com design gráfico e sempre tive uma vertente para essa área mais visual/criativa. Após algumas anos, tenho cada vez mais caminhado nessa incrível área de programação e tenho cada vez mais buscado uma vida de estudo contínuo.
+⁠⁠Na minha tragetória atuei com design gráfico e sempre tive uma vertente para essa área mais visual/criativa. Após algumas anos, tenho cada vez mais caminhado nessa incrível área de programação e tenho cada vez mais buscado uma vida de estudo contínuo.
 
 ----
 
@@ -18,6 +18,9 @@ Eu sou um verdadeiro apaixondado por tecnologia, e amo o universo de programaç�
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"/></code>
 
 ---
 
